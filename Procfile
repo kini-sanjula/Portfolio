@@ -1,0 +1,1 @@
+web: gunicorn Personal_portfolio-projectfolder.wsgi --log-file -
